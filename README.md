@@ -131,6 +131,8 @@
 
 [Calmcode - Intro to Testing with Pytest](https://calmcode.io/pytest/introduction.html)
 
+[Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+
 # Books
 
 Python Testing with pytest by Brian Okken - [The Pragmatic Programmers (publisher)](https://pragprog.com/book/bopytest/python-testing-with-pytest)
